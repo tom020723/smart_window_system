@@ -1,0 +1,12 @@
+# STM32CubeIDE build output
+Debug/
+Release/
+
+# External libraries (restored by restore_after_generate.ps1)
+Drivers/
+Middlewares/
+Core/Src/CMSIS_DSP/
+Core/Src/dsp_lib/
+
+# IDE generated
+.metadata/
