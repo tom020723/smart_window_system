@@ -1,0 +1,34 @@
+# STM32CubeIDE build outputs
+Debug/
+Release/
+build/
+cmake-build-*/
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.lst
+*.su
+*.d
+*.dep
+
+# Logs
+*.log
+*.cyclo
+
+# Local IDE/workspace noise
+.metadata/
+.vscode/
+.settings/
+*.launch
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.bak
+*.tmp
