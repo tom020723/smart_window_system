@@ -1,4 +1,4 @@
-# STM32CubeIDE build outputs
+# STM32CubeIDE build output
 Debug/
 Release/
 build/
@@ -19,11 +19,15 @@ cmake-build-*/
 *.log
 *.cyclo
 
+# External libraries (restored by restore_after_generate.ps1)
+Drivers/
+Middlewares/
+Core/Src/CMSIS_DSP/
+Core/Src/dsp_lib/
+
 # Local IDE/workspace noise
 .metadata/
 .vscode/
-.settings/
-*.launch
 
 # OS files
 Thumbs.db
