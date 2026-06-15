@@ -88,9 +88,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="X-CUBE-AI"/>
 						<entry excluding="Src/CMSIS_DSP/Source/CommonTables/CommonTables.c|Src/CMSIS_DSP/Source/SVMFunctions/SVMFunctions.c|Src/CMSIS_DSP/Source/QuaternionMathFunctions/QuaternionMathFunctions.c|Src/CMSIS_DSP/Source/FastMathFunctions/FastMathFunctions.c|Src/CMSIS_DSP/Source/WindowFunctions/WindowFunctions.c|Src/CMSIS_DSP/Source/TransformFunctions/TransformFunctions.c|Src/CMSIS_DSP/Source/SupportFunctions/SupportFunctions.c|Src/CMSIS_DSP/Source/StatisticsFunctions/StatisticsFunctions.c|Src/CMSIS_DSP/Source/MatrixFunctions/MatrixFunctions.c|Src/CMSIS_DSP/Source/InterpolationFunctions/InterpolationFunctions.c|Src/CMSIS_DSP/Source/DistanceFunctions|Src/CMSIS_DSP/Source/ControllerFunctions/ControllerFunctions.c|Src/CMSIS_DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c|Src/CMSIS_DSP/Source/BayesFunctions/BayesFunctions.c|Src/CMSIS_DSP/Source/BasicMathFunctions/BasicMathFunctions.c|Src/CMSIS_DSP/Source/FilteringFunctions/FilteringFunctions.c|Src/CMSIS_DSP/Source/MatrixFunctions/_arm_mat_vec_mult_neon.c|Src/CMSIS_DSP/Source/MatrixFunctions/_arm_mat_mult_neon.c|Src/CMSIS_DSP/Source/MatrixFunctions/_arm_mat_mult_neon_buffers.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="X-CUBE-AI"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -174,9 +174,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="X-CUBE-AI"/>
 						<entry excluding="Src/CMSIS_DSP/Source/CommonTables/CommonTables.c|Src/CMSIS_DSP/Source/SVMFunctions/SVMFunctions.c|Src/CMSIS_DSP/Source/QuaternionMathFunctions/QuaternionMathFunctions.c|Src/CMSIS_DSP/Source/FastMathFunctions/FastMathFunctions.c|Src/CMSIS_DSP/Source/WindowFunctions/WindowFunctions.c|Src/CMSIS_DSP/Source/TransformFunctions/TransformFunctions.c|Src/CMSIS_DSP/Source/SupportFunctions/SupportFunctions.c|Src/CMSIS_DSP/Source/StatisticsFunctions/StatisticsFunctions.c|Src/CMSIS_DSP/Source/MatrixFunctions/MatrixFunctions.c|Src/CMSIS_DSP/Source/InterpolationFunctions/InterpolationFunctions.c|Src/CMSIS_DSP/Source/DistanceFunctions|Src/CMSIS_DSP/Source/ControllerFunctions/ControllerFunctions.c|Src/CMSIS_DSP/Source/ComplexMathFunctions/ComplexMathFunctions.c|Src/CMSIS_DSP/Source/BayesFunctions/BayesFunctions.c|Src/CMSIS_DSP/Source/BasicMathFunctions/BasicMathFunctions.c|Src/CMSIS_DSP/Source/FilteringFunctions/FilteringFunctions.c|Src/CMSIS_DSP/Source/MatrixFunctions/_arm_mat_vec_mult_neon.c|Src/CMSIS_DSP/Source/MatrixFunctions/_arm_mat_mult_neon.c|Src/CMSIS_DSP/Source/MatrixFunctions/_arm_mat_mult_neon_buffers.c" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Core"/>
 						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="Drivers"/>
-						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="X-CUBE-AI"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

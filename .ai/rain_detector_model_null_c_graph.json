@@ -1699,7 +1699,7 @@
         }
     ],
     "c_activations_count": 1,
-    "date_time": "Sun Jun 14 01:37:47 2026",
+    "date_time": "Mon Jun 15 13:02:42 2026",
     "model_name": "rain_detector_int8",
     "tool_version": {
         "major": 1,
@@ -1813,8 +1813,8 @@
         "buffer_c_data": []
     }},
     "memory_footprint": {
-        "kernel_ram": 4516,
-        "kernel_flash": 41064,
+        "kernel_ram": 0,
+        "kernel_flash": 30720,
         "io": [
             0,
             0

@@ -1,7 +1,7 @@
 {
     "_allocate_inputs": 4,
     "_allocate_outputs": 4,
-    "cli_parameters": "generate --name rain_detector_model -m C:/Users/samsung/GitHub/sound_train/models/rain_detector_int8.tflite --type tflite --compression none --verbosity 1 --workspace C:\\Users\\samsung\\AppData\\Local\\Temp\\mxAI_workspace9957878143410011025798703085191592 --output C:\\Users\\samsung\\.stm32cubemx\\rain_detector_model_output --allocate-inputs --series stm32f4 --allocate-outputs",
+    "cli_parameters": "generate --name rain_detector_model -m C:/Users/samsung/GitHub/sound_train/models/rain_detector_int8.tflite --type tflite --compression none --verbosity 1 --workspace C:\\Users\\samsung\\AppData\\Local\\Temp\\mxAI_workspace22717593850810017586343795033463538 --output C:\\Users\\samsung\\.stm32cubemx\\rain_detector_model_output --allocate-inputs --series stm32f4 --allocate-outputs",
     "cli_version": {
         "major": 1,
         "micro": 0,
@@ -12,7 +12,7 @@
         "factor": null,
         "layers": {}
     },
-    "date_time": "Sun Jun 14 01:37:47 2026",
+    "date_time": "Mon Jun 15 13:02:42 2026",
     "error": 0,
     "error_str": [],
     "exec_cmd": "generate",
